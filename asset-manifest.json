@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.747f2420.js",
+    "static/media/trianglesDarkv2.svg": "/static/media/trianglesDarkv2.1f85c0fc79426ddb53362638b3b6c77b.svg",
+    "index.html": "/index.html",
+    "main.747f2420.js.map": "/static/js/main.747f2420.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.747f2420.js"
+  ]
+}

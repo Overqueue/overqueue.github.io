@@ -1,0 +1,17 @@
+{
+  "short_name": "overqueue",
+  "name": "Overqueue",
+  "description": "A competitive Overwatch matchmaker.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "lang": "en-US"
+}
